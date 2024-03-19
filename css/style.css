@@ -1,0 +1,172 @@
+/*for index.html*/
+#login {
+    background-color: rgb(81, 182, 249);
+}
+
+img{
+    border-radius: 10%;
+}
+
+.user {
+    margin-top: 100px;
+    margin-left: 585px;
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+.name {
+    margin-top: 20px;
+    margin-bottom: -15px;
+    text-align: center;
+}
+
+.user-text {
+    text-align: center;
+}
+
+.enter{
+    display: inline-block;
+    padding-left: 17px;
+    padding-right: 17px;
+    margin-top: 0px;
+    border: solid black .95px;
+    border-radius: 60%;
+    position: relative;
+    top: -45px;
+    left: 910px;
+    background-color: rgb(87, 199, 255);
+} 
+
+a.visited{
+    text-decoration: none;
+}
+a:link{
+    text-decoration: none;
+}
+
+a.hover{
+    color: white;
+}
+
+.pass {
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    width: 270px;
+    height: 32px;
+    text-align: left;
+    line-height: -300px;
+    cursor: text;
+    color:rgb(111, 110, 110);
+}
+
+.pass {
+    margin: auto;
+    border: solid 1px;
+    border-radius: 4px;
+    border-color: rgba(0, 0, 0, 0.827);
+    background-color: white;
+}
+
+.user-button {
+    width: 110px;
+    height: 30px;
+    color: white;
+    font-family: Segoe UI, sans-serif;
+    text-align: start;
+    cursor: grabbing; 
+}
+
+.user-button{
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border: 1px solid rgb(57, 57, 57);
+    border-radius: 4px;
+    background-color: rgb(62, 171, 243);
+}
+
+/*for starting.html*/
+#starting{
+    background-color: black;
+}
+
+.user-starting{
+    margin-top: 180px;
+    margin-left: 680px;
+ 
+}
+
+.windows{
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    font-family: cursive;
+}
+
+.arrow{
+    color: white;
+    display: inline-block;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin-top: 150px;
+    border: solid black .95px;
+    border-radius: 5px;
+    position: relative;
+    top: -10px;
+    left: 645px;
+    background-color: white;
+}
+
+.arrow a:visited{
+    text-decoration: none;
+}
+.arrow a:link{
+    text-decoration: none;
+}
+
+a.hover{
+    color: white;
+}
+
+.starting-footer{
+    color:white;
+    text-align: center;
+    margin-top: 50px;
+}
+
+/*for homescreen.html*/
+#homescreen{
+    background-color: rgb(62, 171, 243);
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.icons{
+margin-top: -700px;
+margin-left: -900px;
+margin-bottom: -695px;
+size: 20%;
+}
+
+.footer{
+    background-color: rgb(83, 190, 239);
+    border: solid black 1px;
+    margin-top: 20px;
+    margin-bottom: 1000px;
+}
+
+.time{
+    margin-left: 1400px;
+    margin-top: 10px;
+}
+
+.date{
+    margin-left: 1400px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+
+/*for purblepalace.html*/
